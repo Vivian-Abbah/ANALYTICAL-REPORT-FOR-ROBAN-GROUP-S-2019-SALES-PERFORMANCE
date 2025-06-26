@@ -1,10 +1,13 @@
-**ROBAN GROUP PERFORMANCE ANALYSIS REPORT FOR THE YEAR 2019**
+#ROBAN GROUP PERFORMANCE ANALYSIS REPORT FOR THE YEAR 2019#
 
 Introduction
 
 In today’s fast-paced business landscape, robust data-driven decisions define market leaders. The Roban Group’s 2019 sales performance encapsulates a year of strategic wins, geographical trends, category surges, and individual excellence. This report takes a comprehensive dive into performance analytics using Microsoft Excel, turning raw transaction data into digestible insights that guide business optimization. Through pivot tables, charts, and dashboards, we unravel what fueled success—and what held it back.
 
+![Picture2](https://github.com/user-attachments/assets/143d1425-0da0-4d8b-a455-40c4b03bcc03)
+
 Summary
+
 The Roban Group Performance Analysis Report for the year 2019 offers a full-spectrum review of sales operations across products, regions, customer segments, and individual sales performance. By leveraging Microsoft Excel dashboards, pivot tables, and trend analysis, the data reveals over $435,000 in total revenue, with New York, Company D, and Northern Region leading in performance. Beverages emerged as the best-selling category, with a strong surge in December, the best-performing month.
 
 The analysis highlights not only the top-performing cities, ship locations, and sales personnel—such as Nancy Freehafer and Anne Larsen but also showcases the disparities in product and regional performance. This review allows stakeholders to identify what works, where inefficiencies lie, and how to direct resources more strategically for future growth.
